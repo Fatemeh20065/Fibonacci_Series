@@ -1,0 +1,6 @@
+c:\users\parse300\documents\visual studio 2012\Projects\Fifth_question\Fifth_question\bin\Debug\Fifth_question.exe.config
+c:\users\parse300\documents\visual studio 2012\Projects\Fifth_question\Fifth_question\bin\Debug\Fifth_question.exe
+c:\users\parse300\documents\visual studio 2012\Projects\Fifth_question\Fifth_question\bin\Debug\Fifth_question.pdb
+c:\users\parse300\documents\visual studio 2012\Projects\Fifth_question\Fifth_question\obj\Debug\Fifth_question.csprojResolveAssemblyReference.cache
+c:\users\parse300\documents\visual studio 2012\Projects\Fifth_question\Fifth_question\obj\Debug\Fifth_question.exe
+c:\users\parse300\documents\visual studio 2012\Projects\Fifth_question\Fifth_question\obj\Debug\Fifth_question.pdb
